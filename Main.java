@@ -3,5 +3,7 @@ public class Main {
         Ejemplo1 puesto = new Ejemplo1("No sé", 100000);
 
         System.out.println(puesto);
+
+        System.out.println("jorcho hp");
     }
 }
